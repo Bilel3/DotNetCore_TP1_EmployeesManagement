@@ -399,3 +399,4 @@ C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\sta
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.dll
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.pdb
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.genruntimeconfig.cache
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Greeting.cshtml.g.cs
