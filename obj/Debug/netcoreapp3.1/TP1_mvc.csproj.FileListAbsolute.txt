@@ -1,10 +1,11 @@
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.csprojAssemblyReference.cache
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.AssemblyInfoInputs.cache
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.AssemblyInfo.cs
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.csproj.CoreCompileInputs.cache
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.RazorAssemblyInfo.cache
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.RazorAssemblyInfo.cs
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.AssemblyInfoInputs.cache
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.AssemblyInfo.cs
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -377,6 +378,11 @@ C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\bin\Debug\netcoreapp3.1\zh-
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.TagHelpers.input.cache
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.TagHelpers.output.cache
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.RazorCoreGenerate.cache
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -393,9 +399,3 @@ C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\sta
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.dll
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.pdb
 C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.genruntimeconfig.cache
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\TP1_mvc.csprojAssemblyReference.cache
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
-C:\Users\Bilel\Studies\Ginf3\DotNet\projects\TP1_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs

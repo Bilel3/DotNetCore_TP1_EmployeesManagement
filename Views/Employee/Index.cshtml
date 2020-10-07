@@ -4,16 +4,16 @@
     ViewData["Title"] = "Employees list";
 }
 
-<h1>Index</h1>
+<h1>Index: Employees management</h1>
 
 <p>
     <a asp-action="Create">Add empolyee</a>
 </p>
-<form class="form-inline my-2 my-lg-0" asp-action="search" asp-controller="Employee">
+<form class="form-inline my-2 my-lg-0" asp-action="search" asp-controller="Employee" >
     <input class="form-control mr-sm-2" name="term" type="search" placeholder="search" aria-label="search" />
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">search</button>
 </form>
-<table class="table">
+<table class="table" >
     <thead>
         <tr>
             <th>
@@ -47,11 +47,21 @@
                 @Html.DisplayFor(modelItem => item.Salary)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id= item.Id}) |
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
                 @Html.ActionLink("Details", "Details", new { id = item.Id }) |
                 @Html.ActionLink("Delete", "Delete", new { id = item.Id })
             </td>
         </tr>
 }
     </tbody>
+    <table>
+        <tr>
+            <td>
+                <div> Nombre d'employés : @ViewData["EmployeesCount"] </div>
+                <div> Salaire moyenne : @ViewData["SalaryAverage"] </div>
+                <div> Salaire Maximal : @ViewData["MaxSalary"] </div>
+                <div> Nombre d'employés départemant HR : @ViewData["HrEmployeesCount"] </div>
+            </td>
+        </tr>
+    </table>
 </table>

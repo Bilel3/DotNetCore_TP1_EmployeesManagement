@@ -42,7 +42,22 @@ namespace TP1_mvc.Models.Repositories
                 return Iemployees;
             }
 
-            public List<Employee> Search(string term)
+        public int HrEmployeesCount()
+        {
+            return Iemployees.Where(x => x.Departement == "RH").Count();
+        }
+
+        public double MaxSalary()
+        {
+            return Iemployees.Max(x=>x.Salary);
+        }
+
+        public double SalaryAverage()
+        {
+            return Iemployees.Average(x => x.Salary);
+        }
+
+        public List<Employee> Search(string term)
             {
                 return Iemployees.Where(a => a.Name.Contains(term)).ToList();
             }

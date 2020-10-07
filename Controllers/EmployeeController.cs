@@ -19,6 +19,10 @@ namespace TP1_mvc.Controllers
         public ActionResult Index()
         {
             var employees = employeeRepository.GetAll();
+            ViewData["EmployeesCount"] = employees.Count();
+            ViewData["SalaryAverage"] = employeeRepository.SalaryAverage();
+            ViewData["MaxSalary"] = employeeRepository.MaxSalary();
+            ViewData["HrEmployeesCount"] = employeeRepository.HrEmployeesCount();
             return View(employees);
         }
 
@@ -104,6 +108,6 @@ namespace TP1_mvc.Controllers
         {
             var result = employeeRepository.Search(term);
             return View("index", result);
+            }
         }
-    }
 }
